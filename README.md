@@ -8,7 +8,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=luabida&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 
-![GitHub-Mark-Dark ](https://github.com/luabida/luabida/blob/output/github-snake-dark.svg)
+<!-- ![GitHub-Mark-Light](https://github.com/luabida/luabida/blob/output/github-snake.svg)
+![GitHub-Mark-Dark ](https://github.com/luabida/luabida/blob/output/github-snake-dark.svg) -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/luabida/luabida/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/luabida/luabida/blob/output/github-snake.svg">
+  <img alt="github-snake." src="">
+</picture> 
   
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
