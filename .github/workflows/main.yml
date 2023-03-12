@@ -16,6 +16,10 @@ jobs:
     timeout-minutes: 10
     
     steps:
+      - name: install deps
+        run: |
+          npx --yes \
+              -p canvas
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v2
         with:
