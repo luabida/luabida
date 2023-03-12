@@ -1,16 +1,15 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
 
-<!--
-**luabida/luabida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <div>
+  <a href="https://github.com/luabida">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luabida&layout=compact&langs_count=16&theme=radical&hide=jupyter%20notebook"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luabida&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues"/>
+</div>
 
-Here are some ideas to get you started:
+![Snake animation](https://github.com/luabida/luabida/blob/output/github-contribution-grid-snake.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
