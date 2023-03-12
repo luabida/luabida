@@ -6,6 +6,27 @@
 
 
 ## <b> Skills & Stack </b> <img height="20" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
+### Daily work
+<p align="left">
+<img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
+<img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'>
+<img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
+<img width='32px' src="https://avatars.githubusercontent.com/u/13171334?s=200&v=4">
+<img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'>
+<img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'>
+<img width='32px' src="https://bashlogo.com/img/symbol/png/full_colored_light.png">
+<img width='32px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png'>
+</p>
+
+### Adventures
+<p align="left">
+<img width='32px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+<img width='32px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+</p>
+  
+
+
+
 
 ## <b> Github Stats </b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 <div>
