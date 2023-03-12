@@ -18,8 +18,7 @@ jobs:
     steps:
       - name: install deps
         run: |
-          npx --yes \
-              -p canvas
+          npm install canvas
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v2
         with:
