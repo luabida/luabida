@@ -2,7 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=&height=100&section=header"/>
 </p>
 
+## <b> About me </b> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img align="center" height="40" src="https://readme-typing-svg.herokuapp.com?lines=Brazilian+🇧🇷;Pythonist+🐍;Dev+Junior+📚;Open+Source/Science+💜✊🏼;"></a> 
 
+
+## <b> Skills & Stack </b> <img height="20" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
+
+## <b> Github Stats </b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 <div>
   <picture>
     <a href="https://github.com/luabida">
@@ -21,7 +26,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/luabida/luabida/blob/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/luabida/luabida/blob/output/github-snake.svg">
-  <img alt="github-snake." src="">
+  <img alt="github-snake" src="https://github.com/luabida/luabida/blob/output/github-snake.svg">
 </picture> 
 
 <p align="center">
