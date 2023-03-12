@@ -38,18 +38,10 @@
 
 ## <b> Github Stats </b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 <div>
-<picture>
-  <a href="https://github.com/luabida">
-  <source media="(prefers-color-scheme: dark)"  align="center" height="170" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luabida&layout=compact&langs_count=16&theme=dark&hide=jupyter%20notebook"/>
-  <source media="(prefers-color-scheme: light)"  align="center" height="170" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luabida&layout=compact&langs_count=16&theme=buefy&hide=jupyter%20notebook"/>
-  <img alt="top-langs" align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luabida&layout=compact&langs_count=16&theme=buefy&hide=jupyter%20notebook"/>
-</picture>
-<picture>
-  <a href="https://github.com/luabida">
-  <source media="(prefers-color-scheme: dark)"  align="center" height="170" srcset="https://github-readme-stats.vercel.app/api?username=luabida&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues"/>
-  <source media="(prefers-color-scheme: light)"  align="center" height="170" srcset="https://github-readme-stats.vercel.app/api?username=luabida&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide=issues"/>
-  <img alt="commits" align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=luabida&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide=issues"/>
-</picture>
+<a href="https://github.com/luabida">
+<img alt="top-langs" align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luabida&layout=compact&langs_count=16&theme=slateorange&hide=jupyter%20notebook"/>
+<a href="https://github.com/luabida">
+<img alt="commits" align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=luabida&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 
 <picture>
