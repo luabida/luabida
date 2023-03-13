@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=&height=100&section=header"/>
 </p>
 
-## <b> About me </b> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img align="center" height="40" src="https://readme-typing-svg.herokuapp.com?lines=Brazilian+🇧🇷;Pythonist+🐍;Dev+Junior+📚;Open+Source/Science+💜✊🏼;"></a> 
+## <b> About me </b> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img align="center" height="40" src="https://readme-typing-svg.herokuapp.com?lines=Brazilian+🇧🇷;Pythonist+🐍;Dev+Junior+📚;Open+Source/Science+💜✊🏼;"></a>
+My name has a [ã](https://en.wikipedia.org/wiki/%C3%83), which can be a bit hard to pronounce depending on the language. In portuguese we use nasal syllables in lots of words, for instance, the word 'No' is '[Não](https://www.youtube.com/watch?v=AwS8GMDHUtM)'. And how these syllables are not present in english, it is understandable that 'Luã' may be pronounced as 'Lua'.
+🚧 Work in progress 🚧
 
 
 ## <b> Skills & Stack </b> <img height="20" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
