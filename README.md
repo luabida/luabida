@@ -35,6 +35,7 @@ Why Python? My very first touch with programming languages was Java, for about 3
 <img height='32px' src='https://www.logolynx.com/images/logolynx/44/44a14cf111102d366f1416562174136c.png'>
 <img height='32px' src='https://docs.xarray.dev/en/v0.9.0/_images/dataset-diagram-logo.png'>
 <img height='32px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/512px-Pandas_logo.svg.png?20200209204934'>
+<img height='32px' src='https://thorgate.eu/assets/images/logo-celery.png'>
   
   
 </p>
