@@ -4,7 +4,8 @@
 
 ## <b> About me </b> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img align="center" height="40" src="https://readme-typing-svg.herokuapp.com?lines=Brazilian+🇧🇷;Pythonist+🐍;Dev+Junior+📚;Open+Source/Science+💜✊🏼;"></a>
 My name has an [ã](https://en.wikipedia.org/wiki/%C3%83), which can be a bit hard to pronounce depending on the language. In portuguese we use nasal syllables in lots of words, for instance, the word 'No' is '[Não](https://www.youtube.com/watch?v=AwS8GMDHUtM)'. And how these syllables are not present in english, it is understandable that 'Luã' may be pronounced as 'Lua'.
-🚧 Work in progress 🚧
+
+Born in 99's, my first OS was a Win95, but what really brings me nostagia is this logo: <img width='18px' src='https://4.bp.blogspot.com/-q_JPh3JuXnw/Vugs62LDJwI/AAAAAAAACz4/DymKpX3n1PMMRawm-9C6enBr3-lXf0c2Q/s1600/msdoslogo_zps9f43bc2d.png'>. My first touch with Unix systems was back in the start of the pandemics, when I found myself in the last months of my former job's contract and no perspectives about the future. So I decided to format my windows machine to a Ubuntu 20.04 and started study programming everyday since. Youtube courses, free bootcamps, challenges, I could say these things helped a bit, but I've really started learning when I got in touch with the first production Open Source projects, like [AlertaDengue](https://github.com/AlertaDengue), [Open Science Labs](https://github.com/OpenScienceLabs) and [EpiGraphHub](https://github.com/thegraphnetwork/EpiGraphHub), where there is environment management, project patterns, tests and real demands to commit.
 
 
 ## <b> Skills & Stack </b> <img height="20" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
