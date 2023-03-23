@@ -12,7 +12,7 @@ I was born in '99, and my first operating system was Windows XP. However, it's t
 Why Python? My very first touch with programming languages was Java ☕ for about 3 months. I've felt lost many times before trying to reach help from the community and friends and get introduced to Python by [Ivan](https://github.com/xmnlab) from Open Science Labs, that offered me a job helping the OSL community. Since then, I've being trying to study the depths of Python, and I can't stop being excited about the new small features I learn in the language. While at work I have to develop other areas like CI, containers, databases, working environments, dependency management, shell scripts and more.
 
 <!-- Markdown table with a bunch of ugly html -->
-# <b> Skills & Stack </b> <img height="20" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
+# <b> Skills & Stack </b> <img align="top" height="20" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
 
 | <p align='left'>**Experience**</p> | <p align='right'>**Buy me a beer**</p> |
 |------ | ---|
