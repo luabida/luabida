@@ -20,22 +20,24 @@ Why Python? My very first touch with programming languages was Java ☕ for abou
 
 <!-- GitHub Stats splitted in the same div -->
 <h1><b> Github Stats </b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h1>
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; text-align: center; height: 100vh; padding-left: 20px;">
+<div align="center">
   <a href="https://github.com/luabida" >
-    <img alt="top-langs" align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luabida&layout=donut&hide=jupyter%20notebook"/>
+    <img alt="top-langs" align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luabida&layout=donut&hide=jupyter%20notebook"/>
   </a>
   <a href="https://github.com/luabida">
-    <img alt="commits" align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=luabida&rank_icon=github&include_all_commits=true&count_private=true&hide=issues"/>
+    <img alt="commits" align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luabida&rank_icon=github&include_all_commits=true&count_private=true&hide=issues"/>
   </a>
 </div>
 
 
 <!--  Snake SVG, generated with .github/workflows/main.yaml -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/luabida/luabida/blob/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/luabida/luabida/blob/output/github-snake.svg">
-  <img alt="github-snake" src="https://github.com/luabida/luabida/blob/output/github-snake.svg">
-</picture> 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/luabida/luabida/blob/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/luabida/luabida/blob/output/github-snake.svg">
+    <img alt="github-snake" src="https://github.com/luabida/luabida/blob/output/github-snake.svg">
+  </picture> 
+</div>
 
 <!-- Footer -->
 <p align="center">
