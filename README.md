@@ -22,9 +22,9 @@ Why Python? My very first touch with programming languages was Java ☕ for abou
 # <b> Github Stats </b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 <div>
 <a href="https://github.com/luabida">
-<img alt="top-langs" align="center" height="170" src="https://github-readme-stats-seven-navy-90.vercel.app/api/top-langs/?username=luabida&layout=compact&langs_count=16&theme=slateorange&hide=jupyter%20notebook"/>
+<img alt="top-langs" align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luabida&layout=donut&hide=jupyter%20notebook"/>
 <a href="https://github.com/luabida">
-<img alt="commits" align="center" height="170" src="https://github-readme-stats-seven-navy-90.vercel.app/api?username=luabida&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true&hide=issues"/>
+<img alt="commits" align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=luabida&rank_icon=github&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 
 <!--  Snake SVG, generated with .github/workflows/main.yaml -->
